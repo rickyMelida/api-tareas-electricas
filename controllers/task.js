@@ -119,8 +119,8 @@ const task = {
                     start_time,
                     end_time,
                     hour_man,
-                    imageBefore,
-                    imageAfter,
+                    image_before,
+                    image_after,
                     turn,
                     name,
                     position
